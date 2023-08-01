@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import { RouterProvider, Route, createBrowserRouter, createRoutesFromElements } from 'react-router-dom';
 import File2 from './File2';
-import New from './New';
+
 import SideBar from './components/SideBar/SideBar'
 
 const router = createBrowserRouter(createRoutesFromElements(
